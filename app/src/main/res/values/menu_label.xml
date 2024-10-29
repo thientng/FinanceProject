@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_add">Thêm mới</string>
+    <string name="menu_search">Tìm kiếm</string>
+    <string name="menu_sort">Sắp xếp</string>
+
+</resources>
